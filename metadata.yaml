@@ -1,0 +1,34 @@
+_repo: Jean-Christophe-Volume-4-Le-Buisson-Ardent-La-Nouvelle-Journee_62021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62021'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Musicians -- Fiction'
+- !lcsh 'Epic literature'
+- GITenberg
+title: "Jean-Christophe, Volume 4\r\nLe Buisson Ardent, La Nouvelle Journée"
+url: http://www.gutenberg.org/ebooks/62021
